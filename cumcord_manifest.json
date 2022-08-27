@@ -1,0 +1,8 @@
+{
+    "name": "/undefined",
+    "description": "Ever wanted to deliberately crash your discord client? Now you can with the /undefined command!",
+    "author": "vbajs",
+    "file": "src/index.js",
+    "license": "BSD-3"
+  }
+  
